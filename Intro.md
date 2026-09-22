@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=SYSTEM+INITIALIZED+%E2%9A%A1%EF%B8%8F;ROOT_ACCESS+%3A%3A+AR_JATALA;BS_CS_CORE+%3A%3A+FAST_NUCES_2026;STATUS+%3A%3A+UNBROKEN+%F0%9F%94%A5" alt="Typing SVG Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=70&lines=SYSTEM+INITIALIZED+%E2%9A%A1%EF%B8%8F;ROOT_ACCESS+%3A%3A+ABD_UR_RAHMAN+[AR_JATALA];FOUNDER+%3A%3A+THE_SILENT_EXPLOIT;BS_CS_CORE+%3A%3A+FAST_NUCES_2026;STATUS+%3A%3A+1GB_RAM_MINDSET_ENGAGED+%F0%9F%94%A5" alt="Typing SVG Header" />
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
   <tr>
     <td width="63%" valign="top" style="padding-right: 15px;">
       <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> <font color="#00f0ff">IDENT:</font> <font color="#c084fc">ArJatala</font></h1>
-      <p>🚀 <strong>Systems Integration Engineer • Security Architect • AI Core Developer</strong></p>
-      <p>🧠 <code>Operating Core: "1GB RAM Mindset"</code> — Specializing in extreme low-level optimization, quantum memory safety, and stabilizing raw computational mass under hyper-volatile threat thresholds.</p>
+      <p>🚀 <strong>Founder @ <font color="#00f0ff">The Silent Exploit</font> • Security Architect • Multi-Agent Systems Engineer</strong></p>
+      <p>🧠 <code>Operating Core: "1GB RAM Mindset"</code> — Stripping runtime limits, removing bloated architecture, and forcing maximum efficiency out of minimal hardware overhead under hyper-volatile threat thresholds.</p>
       <p>🛡️ <strong>Vice President</strong> @ <font color="#c084fc"><b>CODE Catalyst Club</b></font>. Orchestrating live network attack vectors, advanced red-team protocols, and elite peer-learning neural architectures.</p>
       <p>🏋️‍♂️ Driven by absolute structural execution—whether compiled in bare metal or forged under heavy iron.</p>
       <br />
@@ -19,7 +19,7 @@
       <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/SECURE_LINK-LinkedIn-030305?style=for-the-badge&logo=linkedin&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" /></a>
     </td>
     <td width="37%" align="center" valign="middle">
-      <div style="background: linear-gradient(135deg, #0a0612 0%, #030305 100%; padding: 12px; border-radius: 20px; border: 2px solid #00f0ff; box-shadow: 0px 0px 35px rgba(0, 240, 255, 0.5), inset 0px 0px 20px rgba(0, 240, 255, 0.3);">
+      <div style="background: linear-gradient(135deg, #0a0612 0%, #030305 100%); padding: 12px; border-radius: 20px; border: 2px solid #00f0ff; box-shadow: 0px 0px 35px rgba(0, 240, 255, 0.5), inset 0px 0px 20px rgba(0, 240, 255, 0.3);">
         <img src="https://github.com/ArJatala.png" width="100%" style="border-radius: 14px; border: 2px solid #c084fc; box-shadow: 0px 0px 20px rgba(192, 132, 252, 0.4);" alt="ArJatala Avatar HUD"/>
         <p align="center" style="margin: 10px 0 2px 0;"><code style="color: #00f0ff; font-weight: bold; font-size: 11px; text-shadow: 0 0 10px #00f0ff;">[ USER_NODE :: SECURE_ACTIVE ]</code></p>
       </div>
@@ -37,23 +37,21 @@
   <tr>
     <td style="background: #030305; border: 2px solid #00f0ff; padding: 20px; border-radius: 16px; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.3);">
       <h3>🏋️‍♂️ <font color="#00f0ff">LOG 01 // The Absolute Honesty of Iron</font></h3>
-      <p>The chalk dust on my palms felt like static ash. Backstage at the city deadlift championship, my heart hammered against my ribs as I braced for the absolute honesty of iron. Physical mass has no mercy—it either defies gravity or it remains stationary. I locked out a crushing <strong>200-kilogram bar</strong>, claimed the <strong>Under-19 National Title</strong>, and found profound, unyielding safety in a universe governed by immutable physical laws.</p>
+      <p>In the matrix, code can be obfuscated. Under the bar, physics has no mercy. It leaves the ground, or it crushes you. At the city deadlift championship, my heart hammered against my ribs as I braced for that absolute honesty. I locked out a crushing <strong>200-kilogram bar</strong> to claim the <strong>Under-19 Title</strong>, and currently pull a 205 kg max. I find profound, unyielding safety in a universe governed by immutable physical laws. Operating weight scaling to target 110 kg.</p>
     </td>
   </tr>
   <tr><td height="16"></td></tr>
   <tr>
     <td style="background: #030305; border: 2px solid #c084fc; padding: 20px; border-radius: 16px; box-shadow: 0px 0px 25px rgba(192, 132, 252, 0.3);">
-      <h3>🧠 <font color="#c084fc">LOG 02 // Resource Redirection & Material Fatigue</font></h3>
-      <p>When societal conformity dictated a pre-medical biology trajectory, rote memorization felt like a parasitic background process draining my core computational cycles. I initiated a ruthless system override, forcing a hard redirection into computer science while funding my sovereign operations by engineering high-performance web systems for commercial enterprises.</p>
-      <p>Later, a catastrophic high-velocity vehicle collision fragmented my physical momentum right before finals. Navigating severe neurological concussion fog throttled the conduit between intent and output, dipping my metrics to 76%. Analyzing that telemetry, I mapped the exact mechanics of <em>material fatigue</em> operating within biological hardware. You cannot brute-force a fractured framework; you must re-architect how the system absorbs the shock.</p>
+      <h3>🧠 <font color="#c084fc">LOG 02 // Resource Redirection & The 1GB RAM Optimization</font></h3>
+      <p>System recovery transmuted into an aggressive masterclass in extreme resource conservation. This exact telemetry gave us decisive leverage at the <strong>UMT National Hackathon</strong>. While bloated architectures routinely crashed, I isolated data pipelines, purged redundant threads, and stabilized the computing mass to secure <strong>🏆 2nd Position Nationally</strong>.</p>
     </td>
   </tr>
   <tr><td height="16"></td></tr>
   <tr>
     <td style="background: #030305; border: 2px solid #00f0ff; padding: 20px; border-radius: 16px; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.3);">
-      <h3>⚡ <font color="#00f0ff">LOG 03 // The 1GB RAM Optimization Matrix & FAST-NUCES Core</font></h3>
-      <p>System recovery transmuted into an aggressive masterclass in extreme resource conservation. This exact telemetry gave us decisive leverage at the national hackathon against 300 university-tier competitors. While bloated architectures routinely crashed our restricted <strong>one-gigabyte runtime container</strong>, I isolated data pipelines, purged redundant threads, and stabilized the computing mass to secure our <strong>🏆 1st-Place Victory</strong>.</p>
-      <p>Now, expanding into higher education, I have officially secured admission into the elite <strong>Bachelor of Science in Artificial Intelligence program at FAST-NUCES</strong> for the Fall 2026 academic semester—preparing to compile the next generation of autonomous neural infrastructure.</p>
+      <h3>⚡ <font color="#00f0ff">LOG 03 // FAST-NUCES Core Integration</font></h3>
+      <p>Expanding into higher education, I have officially locked into the elite <strong>Bachelor of Science in Computer Science program at FAST-NUCES</strong>. The mission remains unchanged: engineering high-concurrency multi-agent environments and preparing to compile the next generation of autonomous neural infrastructure without the bloat.</p>
     </td>
   </tr>
 </table>
@@ -61,7 +59,7 @@
 <br />
 
 <blockquote style="border: 2px solid #00f0ff; background: #030305; padding: 18px; border-radius: 14px; box-shadow: 0px 0px 20px rgba(0, 240, 255, 0.25);">
-  <b style="color: #00f0ff;">"The digital grid is saturated with architects who can sketch unconstrained systems on pristine paper. But when environments face catastrophic starvation, you need an elite stabilizer who knows how to weld the frame together."</b>
+  <b style="color: #00f0ff;">"The digital grid is saturated with architects who can sketch unconstrained systems on pristine paper. But when environments face catastrophic starvation, you need an elite stabilizer who knows how to weld the frame together under a 1GB runtime limit."</b>
 </blockquote>
 
 <p align="center">
@@ -78,7 +76,7 @@
   <tr>
     <td style="padding: 10px 0;"><b>Logic & Automation</b></td>
     <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-030305?style=for-the-badge&logo=c%2B%2B&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
+      <img src="https://img.shields.io/badge/C-030305?style=for-the-badge&logo=c&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
       <img src="https://img.shields.io/badge/Python-030305?style=for-the-badge&logo=python&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
       <img src="https://img.shields.io/badge/Bash-030305?style=for-the-badge&logo=gnu-bash&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
     </td>
@@ -87,23 +85,16 @@
     <td style="padding: 10px 0;"><b>Engine Architecture</b></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-030305?style=for-the-badge&logo=javascript&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/TypeScript-030305?style=for-the-badge&logo=typescript&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/Node.js-030305?style=for-the-badge&logo=nodedotjs&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
+      <img src="https://img.shields.io/badge/Node.js-030305?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px 0;"><b>Interface & Database</b></td>
+    <td style="padding: 10px 0;"><b>Interface & Environment</b></td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-030305?style=for-the-badge&logo=html5&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
       <img src="https://img.shields.io/badge/CSS3-030305?style=for-the-badge&logo=css3&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/PostgreSQL-030305?style=for-the-badge&logo=postgresql&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 0;"><b>Environment Ops</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-030305?style=for-the-badge&logo=linux&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/Git-030305?style=for-the-badge&logo=git&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
+      <img src="https://img.shields.io/badge/Linux-030305?style=for-the-badge&logo=linux&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
+      <img src="https://img.shields.io/badge/Git-030305?style=for-the-badge&logo=git&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
     </td>
   </tr>
 </table>
@@ -132,7 +123,7 @@
   <tr>
     <td width="50%" valign="top" style="background: #030305; border: 2px solid #ff0055; padding: 18px; border-radius: 14px; box-shadow: 0px 0px 20px rgba(255, 0, 85, 0.25);">
       <h3>🛡️ <a href="https://github.com/Fatim1509/sentinel-0d"><font color="#c084fc">sentinel-0d</font></a></h3>
-      <p>Automated zero-day threat profiling matrix capable of real-time anomaly isolation and autonomous self-defense telemetry.</p>
+      <p>Automated zero-day threat profiling matrix capable of real-time anomaly isolation. <strong>Secured 2nd Position at UMT National Hackathon.</strong></p>
       <img src="https://img.shields.io/badge/SecOps-Threat_Matrix-030305?style=flat-square&color=030305&labelColor=0a0612" style="border: 1px solid #ff0055; border-radius: 6px;" />
     </td>
     <td width="50%" valign="top" style="background: #030305; border: 2px solid #c084fc; padding: 18px; border-radius: 14px; box-shadow: 0px 0px 20px rgba(192, 132, 252, 0.25);">
