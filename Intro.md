@@ -1,3 +1,5 @@
+<div style="background-color: #030305; padding: 25px; border-radius: 20px; border: 2px solid #00f0ff; color: #e2e8f0;">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=70&lines=SYSTEM+INITIALIZED+%E2%9A%A1%EF%B8%8F;ROOT_ACCESS+%3A%3A+ABD_UR_RAHMAN+[AR_JATALA];FOUNDER+%3A%3A+THE_SILENT_EXPLOIT;BS_CS_CORE+%3A%3A+FAST_NUCES_2026;STATUS+%3A%3A+1GB_RAM_MINDSET_ENGAGED+%F0%9F%94%A5" alt="Typing SVG Header" />
 </p>
@@ -6,9 +8,9 @@
   <img src="https://raw.githubusercontent.com/andryandev/andryandev/main/assets/line-neon.gif" width="100%" />
 </p>
 
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="background-color: #08000d; border-radius: 16px; border: 1px solid #1a102b; padding: 10px;">
   <tr>
-    <td width="63%" valign="top" style="padding-right: 15px;">
+    <td width="63%" valign="top" style="padding: 15px;">
       <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> <font color="#00f0ff">IDENT:</font> <font color="#c084fc">ArJatala</font></h1>
       <p>🚀 <strong>Founder @ <font color="#00f0ff">The Silent Exploit</font> • Security Architect • Multi-Agent Systems Engineer</strong></p>
       <p>🧠 <code>Operating Core: "1GB RAM Mindset"</code> — Stripping runtime limits, removing bloated architecture, and forcing maximum efficiency out of minimal hardware overhead under hyper-volatile threat thresholds.</p>
@@ -18,10 +20,10 @@
       <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/PING_NODE-Gmail-030305?style=for-the-badge&logo=gmail&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" /></a>
       <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/SECURE_LINK-LinkedIn-030305?style=for-the-badge&logo=linkedin&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" /></a>
     </td>
-    <td width="37%" align="center" valign="middle">
-      <div style="background: linear-gradient(135deg, #0a0612 0%, #030305 100%); padding: 12px; border-radius: 20px; border: 2px solid #00f0ff; box-shadow: 0px 0px 35px rgba(0, 240, 255, 0.5), inset 0px 0px 20px rgba(0, 240, 255, 0.3);">
-        <img src="https://github.com/ArJatala.png" width="100%" style="border-radius: 14px; border: 2px solid #c084fc; box-shadow: 0px 0px 20px rgba(192, 132, 252, 0.4);" alt="ArJatala Avatar HUD"/>
-        <p align="center" style="margin: 10px 0 2px 0;"><code style="color: #00f0ff; font-weight: bold; font-size: 11px; text-shadow: 0 0 10px #00f0ff;">[ USER_NODE :: SECURE_ACTIVE ]</code></p>
+    <td width="37%" align="center" valign="middle" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #0a0612 0%, #030305 100%); padding: 12px; border-radius: 20px; border: 2px solid #00f0ff;">
+        <img src="https://github.com/ArJatala.png" width="100%" style="border-radius: 14px; border: 2px solid #c084fc;" alt="ArJatala Avatar HUD"/>
+        <p align="center" style="margin: 10px 0 2px 0;"><code style="color: #00f0ff; font-weight: bold; font-size: 11px;">[ USER_NODE :: SECURE_ACTIVE ]</code></p>
       </div>
     </td>
   </tr>
@@ -35,21 +37,21 @@
 
 <table width="100%">
   <tr>
-    <td style="background: #030305; border: 2px solid #00f0ff; padding: 20px; border-radius: 16px; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.3);">
+    <td style="background: #08000d; border: 2px solid #00f0ff; padding: 20px; border-radius: 16px;">
       <h3>🏋️‍♂️ <font color="#00f0ff">LOG 01 // The Absolute Honesty of Iron</font></h3>
       <p>In the matrix, code can be obfuscated. Under the bar, physics has no mercy. It leaves the ground, or it crushes you. At the city deadlift championship, my heart hammered against my ribs as I braced for that absolute honesty. I locked out a crushing <strong>200-kilogram bar</strong> to claim the <strong>Under-19 Title</strong>, and currently pull a 205 kg max. I find profound, unyielding safety in a universe governed by immutable physical laws. Operating weight scaling to target 110 kg.</p>
     </td>
   </tr>
   <tr><td height="16"></td></tr>
   <tr>
-    <td style="background: #030305; border: 2px solid #c084fc; padding: 20px; border-radius: 16px; box-shadow: 0px 0px 25px rgba(192, 132, 252, 0.3);">
+    <td style="background: #08000d; border: 2px solid #c084fc; padding: 20px; border-radius: 16px;">
       <h3>🧠 <font color="#c084fc">LOG 02 // Resource Redirection & The 1GB RAM Optimization</font></h3>
       <p>System recovery transmuted into an aggressive masterclass in extreme resource conservation. This exact telemetry gave us decisive leverage at the <strong>UMT National Hackathon</strong>. While bloated architectures routinely crashed, I isolated data pipelines, purged redundant threads, and stabilized the computing mass to secure <strong>🏆 2nd Position Nationally</strong>.</p>
     </td>
   </tr>
   <tr><td height="16"></td></tr>
   <tr>
-    <td style="background: #030305; border: 2px solid #00f0ff; padding: 20px; border-radius: 16px; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.3);">
+    <td style="background: #08000d; border: 2px solid #00f0ff; padding: 20px; border-radius: 16px;">
       <h3>⚡ <font color="#00f0ff">LOG 03 // FAST-NUCES Core Integration</font></h3>
       <p>Expanding into higher education, I have officially locked into the elite <strong>Bachelor of Science in Computer Science program at FAST-NUCES</strong>. The mission remains unchanged: engineering high-concurrency multi-agent environments and preparing to compile the next generation of autonomous neural infrastructure without the bloat.</p>
     </td>
@@ -58,7 +60,7 @@
 
 <br />
 
-<blockquote style="border: 2px solid #00f0ff; background: #030305; padding: 18px; border-radius: 14px; box-shadow: 0px 0px 20px rgba(0, 240, 255, 0.25);">
+<blockquote style="border: 2px solid #00f0ff; background: #0a0612; padding: 18px; border-radius: 14px;">
   <b style="color: #00f0ff;">"The digital grid is saturated with architects who can sketch unconstrained systems on pristine paper. But when environments face catastrophic starvation, you need an elite stabilizer who knows how to weld the frame together under a 1GB runtime limit."</b>
 </blockquote>
 
@@ -68,7 +70,7 @@
 
 <h2><font color="#00f0ff">⚙️</font> <font color="#c084fc">Core Tech Compilers & Skill Array</font></h2>
 
-<table width="100%">
+<table width="100%" style="background-color: #08000d; border-radius: 16px; border: 1px solid #1a102b; padding: 15px;">
   <tr>
     <th width="30%" align="left" style="color: #00f0ff; padding-bottom: 12px;">Layer</th>
     <th align="left" style="color: #c084fc; padding-bottom: 12px;">Active Skill Array Tokens</th>
@@ -108,12 +110,12 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" style="background: #030305; border: 2px solid #00f0ff; padding: 18px; border-radius: 14px; box-shadow: 0px 0px 20px rgba(0, 240, 255, 0.25);">
+    <td width="50%" valign="top" style="background: #08000d; border: 2px solid #00f0ff; padding: 18px; border-radius: 14px;">
       <h3>🌐 <a href="https://github.com/Fatim1509/cis-operational-center"><font color="#00f0ff">cis-operational-center</font></a></h3>
       <p>Centralized infrastructure telemetry control room designed for system synchronization and continuous pipeline health auditing.</p>
       <img src="https://img.shields.io/badge/Matrix-Active-030305?style=flat-square&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 6px;" />
     </td>
-    <td width="50%" valign="top" style="background: #030305; border: 2px solid #c084fc; padding: 18px; border-radius: 14px; box-shadow: 0px 0px 20px rgba(192, 132, 252, 0.25);">
+    <td width="50%" valign="top" style="background: #08000d; border: 2px solid #c084fc; padding: 18px; border-radius: 14px;">
       <h3>🛰️ <a href="https://github.com/Fatim1509/Atlasnet"><font color="#00f0ff">Atlasnet</font></a></h3>
       <p>High-efficiency network vectoring and data-routing fabric built for aggressive transmission speeds under strict memory constraints.</p>
       <img src="https://img.shields.io/badge/Core-Network-030305?style=flat-square&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 6px;" />
@@ -121,12 +123,12 @@
   </tr>
   <tr><td height="14" colspan="2"></td></tr>
   <tr>
-    <td width="50%" valign="top" style="background: #030305; border: 2px solid #ff0055; padding: 18px; border-radius: 14px; box-shadow: 0px 0px 20px rgba(255, 0, 85, 0.25);">
+    <td width="50%" valign="top" style="background: #08000d; border: 2px solid #ff0055; padding: 18px; border-radius: 14px;">
       <h3>🛡️ <a href="https://github.com/Fatim1509/sentinel-0d"><font color="#c084fc">sentinel-0d</font></a></h3>
       <p>Automated zero-day threat profiling matrix capable of real-time anomaly isolation. <strong>Secured 2nd Position at UMT National Hackathon.</strong></p>
       <img src="https://img.shields.io/badge/SecOps-Threat_Matrix-030305?style=flat-square&color=030305&labelColor=0a0612" style="border: 1px solid #ff0055; border-radius: 6px;" />
     </td>
-    <td width="50%" valign="top" style="background: #030305; border: 2px solid #c084fc; padding: 18px; border-radius: 14px; box-shadow: 0px 0px 20px rgba(192, 132, 252, 0.25);">
+    <td width="50%" valign="top" style="background: #08000d; border: 2px solid #c084fc; padding: 18px; border-radius: 14px;">
       <h3>🤖 <a href="https://github.com/Fatim1509/RIME0.2"><font color="#c084fc">RIME v0.2</font></a></h3>
       <p>Initial conceptual multi-agent pipeline model submitted for the global Google Gemini API Competition.</p>
       <img src="https://img.shields.io/badge/Engine-Gemini_API-030305?style=flat-square&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 6px;" />
@@ -134,7 +136,7 @@
   </tr>
   <tr><td height="14" colspan="2"></td></tr>
   <tr>
-    <td colspan="2" valign="top" style="background: #0a0612; border: 2px solid #00f0ff; padding: 22px; border-radius: 16px; box-shadow: 0px 0px 30px rgba(0, 240, 255, 0.35);">
+    <td colspan="2" valign="top" style="background: #0a0612; border: 2px solid #00f0ff; padding: 22px; border-radius: 16px;">
       <h3>🚀 <a href="https://github.com/Fatim1509/Rime1.0"><font color="#00f0ff">Rime v1.0 (Flagship Neural Core)</font></a></h3>
       <p><strong>The production evolution of the Recursive Intelligence Multi-Agent Environment.</strong> Deploys heavy-load multi-modal agent clusters inside extremely restricted 1GB runtime frames using highly synchronized queue structures and aggressive memory purging allocation layers.</p>
       <img src="https://img.shields.io/badge/Release-Production-030305?style=for-the-badge&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
@@ -147,82 +149,32 @@
   <img src="https://raw.githubusercontent.com/andryandev/andryandev/main/assets/line-neon.gif" width="100%" />
 </p>
 
-<h2><font color="#00f0ff">📊</font> <font color="#c084fc">Real-Time Cybernetic Execution Metrics & Hacking Telemetry</font></h2>
+<h2><font color="#00f0ff">⚡</font> <font color="#c084fc">Cybernetic Execution Stream</font></h2>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="50%" valign="top" align="center" style="background: #030305; border: 2px solid #00f0ff; padding: 16px; border-radius: 18px; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.3);">
+    <td width="50%" valign="top" align="center" style="background: #08000d; border: 2px solid #00f0ff; padding: 16px; border-radius: 18px;">
       <h3 style="color: #00f0ff; margin-top: 0;">⚡ [ HACKER_TERMINAL_STREAM ]</h3>
-      <img src="https://media.giphy.com/media/Yy26889w2sO1U7yLg7/giphy.gif" width="100%" style="border-radius: 12px; border: 1px solid #00f0ff; box-shadow: 0px 0px 15px rgba(0, 240, 255, 0.4);" alt="Cyber Hacking Stream"/>
+      <img src="https://media.giphy.com/media/Yy26889w2sO1U7yLg7/giphy.gif" width="100%" style="border-radius: 12px; border: 1px solid #00f0ff;" alt="Cyber Hacking Stream"/>
       <p style="color: #c084fc; font-size: 11px; margin: 8px 0 0 0;"><b>LIVE INTRUSION DETECTION & PACKET SNIFFING</b></p>
     </td>
     <td width="2%"></td>
-    <td width="48%" valign="top" align="center" style="background: #030305; border: 2px solid #c084fc; padding: 16px; border-radius: 18px; box-shadow: 0px 0px 25px rgba(192, 132, 252, 0.3);">
+    <td width="48%" valign="top" align="center" style="background: #08000d; border: 2px solid #c084fc; padding: 16px; border-radius: 18px;">
       <h3 style="color: #c084fc; margin-top: 0;">🔮 [ NEURAL_MATRIX_CORE ]</h3>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px; border: 1px solid #c084fc; box-shadow: 0px 0px 15px rgba(192, 132, 252, 0.4);" alt="Matrix Rain Cyber HUD"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px; border: 1px solid #c084fc;" alt="Matrix Rain Cyber HUD"/>
       <p style="color: #00f0ff; font-size: 11px; margin: 8px 0 0 0;"><b>SYNCHRONIZING RECURSIVE THREAD ARRAYS</b></p>
     </td>
   </tr>
 </table>
 
-<br />
-
-<p align="center">
-  <div style="background: #030305; padding: 14px; border-radius: 18px; border: 2px solid #00f0ff; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.3);">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArJatala&theme=tokyonight&bg_color=030305&color=00f0ff&line=c084fc&point=00f0ff&area=true&hide_border=true" width="100%" alt="System Activity Wave Vector Graph" style="border-radius: 10px;" />
-  </div>
-</p>
-
-<br />
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top" style="padding-right: 10px;">
-      <div style="background: #030305; padding: 12px; border-radius: 18px; border: 2px solid #00f0ff; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.3);">
-        <img src="https://github-readme-stats.vercel.app/api?username=ArJatala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00f0ff&icon_color=00f0ff&bg_color=030305" height="190" />
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top" style="padding-left: 10px;">
-      <div style="background: #030305; padding: 12px; border-radius: 18px; border: 2px solid #c084fc; box-shadow: 0px 0px 25px rgba(192, 132, 252, 0.3);">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArJatala&theme=tokyonight&hide_border=true&fire=00f0ff&ring=c084fc&background=030305" height="190" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top" style="padding-right: 10px;">
-      <div style="background: #030305; padding: 12px; border-radius: 18px; border: 2px solid #c084fc; box-shadow: 0px 0px 25px rgba(192, 132, 252, 0.3);">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArJatala&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff&bg_color=030305" height="200" />
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top" style="padding-left: 10px;">
-      <div style="background: #030305; padding: 12px; border-radius: 18px; border: 2px solid #00f0ff; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.3);">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArJatala&theme=tokyonight" height="200" style="border-radius: 12px;" alt="3D Profile Architecture Matrix"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<p align="center">
-  <div style="display: inline-block; background: #030305; padding: 15px; border-radius: 18px; border: 2px solid #00f0ff; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.3);">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=ArJatala&theme=tokyonight&no-bg=true&column=6" alt="System Trophies" />
-    </a>
-  </div>
-</p>
-
-<p align="center">
+<p align="center" style="margin-top: 25px;">
   <img src="https://raw.githubusercontent.com/andryandev/andryandev/main/assets/line-neon.gif" width="100%" />
 </p>
 
 <p align="center">
-  <div style="background: #030305; display: inline-block; padding: 6px; border-radius: 12px; border: 2px solid #00f0ff; box-shadow: 0px 0px 20px rgba(0, 240, 255, 0.3);">
+  <div style="background: #08000d; display: inline-block; padding: 6px; border-radius: 12px; border: 2px solid #00f0ff;">
     <img src="https://komarev.com/ghpvc/?username=ArJatala&color=00f0ff&style=for-the-badge&label=SYSTEM+PINGS&bg_color=030305" alt="System Access Vector Tracker" style="border-radius: 6px;" />
   </div>
 </p>
+
+</div>
