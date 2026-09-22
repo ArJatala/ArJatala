@@ -1,180 +1,244 @@
-<div style="background-color: #030305; padding: 25px; border-radius: 20px; border: 2px solid #00f0ff; color: #e2e8f0;">
+<div align="center">⚡ ARJATALA // SYSTEM ONLINE
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=70&lines=SYSTEM+INITIALIZED+%E2%9A%A1%EF%B8%8F;ROOT_ACCESS+%3A%3A+ABD_UR_RAHMAN+[AR_JATALA];FOUNDER+%3A%3A+THE_SILENT_EXPLOIT;BS_CS_CORE+%3A%3A+FAST_NUCES_2026;STATUS+%3A%3A+1GB_RAM_MINDSET_ENGAGED+%F0%9F%94%A5" alt="Typing SVG Header" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=27&duration=3000&pause=700&color=00F0FF&center=true&vCenter=true&width=850&height=70&lines=SYSTEM+INITIALIZED+%E2%9A%A1;ROOT_ACCESS+%3A%3A+ARJATALA;SECURITY+%2F%2F+AI+%2F%2F+SYSTEMS;BSCS_CORE+%3A%3A+FAST-NUCES;STATUS+%3A%3A+1GB_RAM_MINDSET+%F0%9F%94%A5" alt="Typing Header"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:030305,50:08001A,100:00F0FF&height=140&section=header&text=THE%20SILENT%20EXPLOIT&fontSize=34&fontColor=00F0FF&animation=twinkling&fontAlignY=45" width="100%"/></div>---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andryandev/andryandev/main/assets/line-neon.gif" width="100%" />
-</p>
+<div align="center">"> BOOT_SEQUENCE"
 
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="background-color: #08000d; border-radius: 16px; border: 1px solid #1a102b; padding: 10px;">
-  <tr>
-    <td width="63%" valign="top" style="padding: 15px;">
-      <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> <font color="#00f0ff">IDENT:</font> <font color="#c084fc">ArJatala</font></h1>
-      <p>🚀 <strong>Founder @ <font color="#00f0ff">The Silent Exploit</font> • Security Architect • Multi-Agent Systems Engineer</strong></p>
-      <p>🧠 <code>Operating Core: "1GB RAM Mindset"</code> — Stripping runtime limits, removing bloated architecture, and forcing maximum efficiency out of minimal hardware overhead under hyper-volatile threat thresholds.</p>
-      <p>🛡️ <strong>Vice President</strong> @ <font color="#c084fc"><b>CODE Catalyst Club</b></font>. Orchestrating live network attack vectors, advanced red-team protocols, and elite peer-learning neural architectures.</p>
-      <p>🏋️‍♂️ Driven by absolute structural execution—whether compiled in bare metal or forged under heavy iron.</p>
-      <br />
-      <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/PING_NODE-Gmail-030305?style=for-the-badge&logo=gmail&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" /></a>
-      <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/SECURE_LINK-LinkedIn-030305?style=for-the-badge&logo=linkedin&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" /></a>
-    </td>
-    <td width="37%" align="center" valign="middle" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #0a0612 0%, #030305 100%); padding: 12px; border-radius: 20px; border: 2px solid #00f0ff;">
-        <img src="https://github.com/ArJatala.png" width="100%" style="border-radius: 14px; border: 2px solid #c084fc;" alt="ArJatala Avatar HUD"/>
-        <p align="center" style="margin: 10px 0 2px 0;"><code style="color: #00f0ff; font-weight: bold; font-size: 11px;">[ USER_NODE :: SECURE_ACTIVE ]</code></p>
-      </div>
-    </td>
-  </tr>
-</table>
+╔══════════════════════════════════════════════════════════╗
+║                 ARJATALA // CORE SYSTEM                 ║
+╠══════════════════════════════════════════════════════════╣
+║ USER       :: ARJATALA                                  ║
+║ ROLE       :: SECURITY / AI / SYSTEMS                   ║
+║ CORE       :: BSCS @ FAST-NUCES                          ║
+║ MODE       :: BUILD / BREAK / OPTIMIZE                  ║
+║ MEMORY     :: 1GB RAM MINDSET                            ║
+║ STATUS     :: █████████████████████ 100%                ║
+╚══════════════════════════════════════════════════════════╝
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andryandev/andryandev/main/assets/line-neon.gif" width="100%" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ArJatala&style=for-the-badge&color=00f0ff&label=SYSTEM+PINGS" alt="Profile Views"></div>---
 
-<h2><font color="#00f0ff">📖</font> <font color="#c084fc">Neural Logs: Structural Integrity Under Load</font></h2>
+"01 // IDENTIFICATION"
 
-<table width="100%">
-  <tr>
-    <td style="background: #08000d; border: 2px solid #00f0ff; padding: 20px; border-radius: 16px;">
-      <h3>🏋️‍♂️ <font color="#00f0ff">LOG 01 // The Absolute Honesty of Iron</font></h3>
-      <p>In the matrix, code can be obfuscated. Under the bar, physics has no mercy. It leaves the ground, or it crushes you. At the city deadlift championship, my heart hammered against my ribs as I braced for that absolute honesty. I locked out a crushing <strong>200-kilogram bar</strong> to claim the <strong>Under-19 Title</strong>, and currently pull a 205 kg max. I find profound, unyielding safety in a universe governed by immutable physical laws. Operating weight scaling to target 110 kg.</p>
-    </td>
-  </tr>
-  <tr><td height="16"></td></tr>
-  <tr>
-    <td style="background: #08000d; border: 2px solid #c084fc; padding: 20px; border-radius: 16px;">
-      <h3>🧠 <font color="#c084fc">LOG 02 // Resource Redirection & The 1GB RAM Optimization</font></h3>
-      <p>System recovery transmuted into an aggressive masterclass in extreme resource conservation. This exact telemetry gave us decisive leverage at the <strong>UMT National Hackathon</strong>. While bloated architectures routinely crashed, I isolated data pipelines, purged redundant threads, and stabilized the computing mass to secure <strong>🏆 2nd Position Nationally</strong>.</p>
-    </td>
-  </tr>
-  <tr><td height="16"></td></tr>
-  <tr>
-    <td style="background: #08000d; border: 2px solid #00f0ff; padding: 20px; border-radius: 16px;">
-      <h3>⚡ <font color="#00f0ff">LOG 03 // FAST-NUCES Core Integration</font></h3>
-      <p>Expanding into higher education, I have officially locked into the elite <strong>Bachelor of Science in Computer Science program at FAST-NUCES</strong>. The mission remains unchanged: engineering high-concurrency multi-agent environments and preparing to compile the next generation of autonomous neural infrastructure without the bloat.</p>
-    </td>
-  </tr>
-</table>
+<img align="right" width="300" src="https://github.com/ArJatala.png">"> USER_NODE :: ARJATALA"
 
-<br />
+🚀 Founder @ The Silent Exploit
 
-<blockquote style="border: 2px solid #00f0ff; background: #0a0612; padding: 18px; border-radius: 14px;">
-  <b style="color: #00f0ff;">"The digital grid is saturated with architects who can sketch unconstrained systems on pristine paper. But when environments face catastrophic starvation, you need an elite stabilizer who knows how to weld the frame together under a 1GB runtime limit."</b>
-</blockquote>
+🛡️ Security Architect
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andryandev/andryandev/main/assets/line-neon.gif" width="100%" />
-</p>
+🤖 Multi-Agent Systems Engineer
 
-<h2><font color="#00f0ff">⚙️</font> <font color="#c084fc">Core Tech Compilers & Skill Array</font></h2>
+🎓 BS Computer Science — FAST-NUCES
 
-<table width="100%" style="background-color: #08000d; border-radius: 16px; border: 1px solid #1a102b; padding: 15px;">
-  <tr>
-    <th width="30%" align="left" style="color: #00f0ff; padding-bottom: 12px;">Layer</th>
-    <th align="left" style="color: #c084fc; padding-bottom: 12px;">Active Skill Array Tokens</th>
-  </tr>
-  <tr>
-    <td style="padding: 10px 0;"><b>Logic & Automation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-030305?style=for-the-badge&logo=c&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/Python-030305?style=for-the-badge&logo=python&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/Bash-030305?style=for-the-badge&logo=gnu-bash&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 0;"><b>Engine Architecture</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-030305?style=for-the-badge&logo=javascript&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/Node.js-030305?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 0;"><b>Interface & Environment</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-030305?style=for-the-badge&logo=html5&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/CSS3-030305?style=for-the-badge&logo=css3&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/Linux-030305?style=for-the-badge&logo=linux&logoColor=00f0ff&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/Git-030305?style=for-the-badge&logo=git&logoColor=c084fc&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
+⚡ 1GB RAM Mindset
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andryandev/andryandev/main/assets/line-neon.gif" width="100%" />
-</p>
+I build systems with an obsession for efficiency, security and resource optimization.
 
-<h2><font color="#00f0ff">📁</font> <font color="#c084fc">Co-Architected Production Nodes</font></h2>
-<p>Distributed intelligence frameworks built in collaboration with partner <a href="https://github.com/Fatim1509"><b>@Fatim1509</b></a>:</p>
+The philosophy is simple:
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" style="background: #08000d; border: 2px solid #00f0ff; padding: 18px; border-radius: 14px;">
-      <h3>🌐 <a href="https://github.com/Fatim1509/cis-operational-center"><font color="#00f0ff">cis-operational-center</font></a></h3>
-      <p>Centralized infrastructure telemetry control room designed for system synchronization and continuous pipeline health auditing.</p>
-      <img src="https://img.shields.io/badge/Matrix-Active-030305?style=flat-square&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 6px;" />
-    </td>
-    <td width="50%" valign="top" style="background: #08000d; border: 2px solid #c084fc; padding: 18px; border-radius: 14px;">
-      <h3>🛰️ <a href="https://github.com/Fatim1509/Atlasnet"><font color="#00f0ff">Atlasnet</font></a></h3>
-      <p>High-efficiency network vectoring and data-routing fabric built for aggressive transmission speeds under strict memory constraints.</p>
-      <img src="https://img.shields.io/badge/Core-Network-030305?style=flat-square&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 6px;" />
-    </td>
-  </tr>
-  <tr><td height="14" colspan="2"></td></tr>
-  <tr>
-    <td width="50%" valign="top" style="background: #08000d; border: 2px solid #ff0055; padding: 18px; border-radius: 14px;">
-      <h3>🛡️ <a href="https://github.com/Fatim1509/sentinel-0d"><font color="#c084fc">sentinel-0d</font></a></h3>
-      <p>Automated zero-day threat profiling matrix capable of real-time anomaly isolation. <strong>Secured 2nd Position at UMT National Hackathon.</strong></p>
-      <img src="https://img.shields.io/badge/SecOps-Threat_Matrix-030305?style=flat-square&color=030305&labelColor=0a0612" style="border: 1px solid #ff0055; border-radius: 6px;" />
-    </td>
-    <td width="50%" valign="top" style="background: #08000d; border: 2px solid #c084fc; padding: 18px; border-radius: 14px;">
-      <h3>🤖 <a href="https://github.com/Fatim1509/RIME0.2"><font color="#c084fc">RIME v0.2</font></a></h3>
-      <p>Initial conceptual multi-agent pipeline model submitted for the global Google Gemini API Competition.</p>
-      <img src="https://img.shields.io/badge/Engine-Gemini_API-030305?style=flat-square&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 6px;" />
-    </td>
-  </tr>
-  <tr><td height="14" colspan="2"></td></tr>
-  <tr>
-    <td colspan="2" valign="top" style="background: #0a0612; border: 2px solid #00f0ff; padding: 22px; border-radius: 16px;">
-      <h3>🚀 <a href="https://github.com/Fatim1509/Rime1.0"><font color="#00f0ff">Rime v1.0 (Flagship Neural Core)</font></a></h3>
-      <p><strong>The production evolution of the Recursive Intelligence Multi-Agent Environment.</strong> Deploys heavy-load multi-modal agent clusters inside extremely restricted 1GB runtime frames using highly synchronized queue structures and aggressive memory purging allocation layers.</p>
-      <img src="https://img.shields.io/badge/Release-Production-030305?style=for-the-badge&color=030305&labelColor=0a0612" style="border: 1px solid #00f0ff; border-radius: 8px;" />
-      <img src="https://img.shields.io/badge/Optimization-1GB_RAM-030305?style=for-the-badge&color=030305&labelColor=0a0612" style="border: 1px solid #c084fc; border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
+«Strip the unnecessary. Keep the system alive. Make limited hardware do impossible-looking things.»
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andryandev/andryandev/main/assets/line-neon.gif" width="100%" />
-</p>
+Currently exploring:
 
-<h2><font color="#00f0ff">⚡</font> <font color="#c084fc">Cybernetic Execution Stream</font></h2>
+- Cybersecurity
+- Artificial Intelligence
+- Multi-Agent Systems
+- Systems Programming
+- Network Architecture
+- Resource-Constrained Computing
+- Automation
+- Linux
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center" style="background: #08000d; border: 2px solid #00f0ff; padding: 16px; border-radius: 18px;">
-      <h3 style="color: #00f0ff; margin-top: 0;">⚡ [ HACKER_TERMINAL_STREAM ]</h3>
-      <img src="https://media.giphy.com/media/Yy26889w2sO1U7yLg7/giphy.gif" width="100%" style="border-radius: 12px; border: 1px solid #00f0ff;" alt="Cyber Hacking Stream"/>
-      <p style="color: #c084fc; font-size: 11px; margin: 8px 0 0 0;"><b>LIVE INTRUSION DETECTION & PACKET SNIFFING</b></p>
-    </td>
-    <td width="2%"></td>
-    <td width="48%" valign="top" align="center" style="background: #08000d; border: 2px solid #c084fc; padding: 16px; border-radius: 18px;">
-      <h3 style="color: #c084fc; margin-top: 0;">🔮 [ NEURAL_MATRIX_CORE ]</h3>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px; border: 1px solid #c084fc;" alt="Matrix Rain Cyber HUD"/>
-      <p style="color: #00f0ff; font-size: 11px; margin: 8px 0 0 0;"><b>SYNCHRONIZING RECURSIVE THREAD ARRAYS</b></p>
-    </td>
-  </tr>
-</table>
+<br clear="right"/>---
 
-<p align="center" style="margin-top: 25px;">
-  <img src="https://raw.githubusercontent.com/andryandev/andryandev/main/assets/line-neon.gif" width="100%" />
-</p>
+"02 // OPERATING PHILOSOPHY"
 
-<p align="center">
-  <div style="background: #08000d; display: inline-block; padding: 6px; border-radius: 12px; border: 2px solid #00f0ff;">
-    <img src="https://komarev.com/ghpvc/?username=ArJatala&color=00f0ff&style=for-the-badge&label=SYSTEM+PINGS&bg_color=030305" alt="System Access Vector Tracker" style="border-radius: 6px;" />
-  </div>
-</p>
+┌───────────────────────────────────────────────────────────┐
+│                  1GB RAM MINDSET                          │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  REMOVE BLOAT                                             │
+│       ↓                                                   │
+│  ISOLATE CRITICAL PROCESSES                               │
+│       ↓                                                   │
+│  OPTIMIZE MEMORY                                          │
+│       ↓                                                   │
+│  CONTROL THE PIPELINE                                     │
+│       ↓                                                   │
+│  MAXIMUM OUTPUT / MINIMUM OVERHEAD                        │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+
+I like building systems that remain functional when resources become scarce.
+
+Constraint isn't always the enemy. Sometimes it's the architecture test.
+
+---
+
+"03 // NEURAL LOGS"
+
+🏋️ LOG 01 // THE ABSOLUTE HONESTY OF IRON
+
+At the city deadlift championship, I locked out a 200 kg deadlift to claim the Under-19 title.
+
+Current deadlift max: 205 kg
+
+The same principle applies to engineering:
+
+«Physics doesn't care about excuses. Neither should your architecture.»
+
+---
+
+🧠 LOG 02 // RESOURCE REDIRECTION
+
+At the UMT National Hackathon, resource optimization became the core strategy.
+
+Instead of throwing more hardware at the problem:
+
+DATA PIPELINES
+      ↓
+REDUNDANT THREADS
+      ↓
+MEMORY PURGE
+      ↓
+RESOURCE CONTROL
+      ↓
+STABLE EXECUTION
+
+Result: 2nd Position — National Hackathon
+
+---
+
+⚡ LOG 03 // FAST-NUCES CORE INTEGRATION
+
+Currently pursuing a BS in Computer Science at FAST-NUCES.
+
+Mission:
+
+SECURITY
+   +
+AI
+   +
+SYSTEMS
+   +
+MULTI-AGENT ARCHITECTURE
+   +
+EXTREME OPTIMIZATION
+
+---
+
+"04 // TECH STACK"
+
+<div align="center">LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,python,js,bash&theme=dark" />SYSTEMS & DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,nodejs,html,css&theme=dark" />CURRENTLY EXPLORING
+
+<img src="https://skillicons.dev/icons?i=ai,cloud,docker,kali&theme=dark" /></div>---
+
+"05 // PRODUCTION NODES"
+
+🌐 CIS OPERATIONAL CENTER
+
+Centralized infrastructure telemetry and system synchronization environment.
+
+<a href="https://github.com/Fatim1509/cis-operational-center">
+<img src="https://img.shields.io/badge/ACCESS_NODE-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050509">
+</a>---
+
+🛰️ ATLASNET
+
+Network vectoring and data-routing architecture designed around efficient transmission.
+
+<a href="https://github.com/Fatim1509/Atlasnet">
+<img src="https://img.shields.io/badge/ACCESS_NODE-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=050509">
+</a>---
+
+🛡️ SENTINEL-0D
+
+Automated threat profiling and anomaly isolation system.
+
+UMT National Hackathon — 2nd Position
+
+<a href="https://github.com/Fatim1509/sentinel-0d">
+<img src="https://img.shields.io/badge/SECURITY_NODE-FF0055?style=for-the-badge&logo=github&logoColor=white&labelColor=050509">
+</a>---
+
+🤖 RIME v0.2
+
+Early multi-agent architecture developed for the Google Gemini API Competition.
+
+<a href="https://github.com/Fatim1509/RIME0.2">
+<img src="https://img.shields.io/badge/RIME_v0.2-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=050509">
+</a>---
+
+🚀 RIME v1.0 // FLAGSHIP CORE
+
+Recursive Intelligence Multi-Agent Environment.
+
+Designed around:
+
+MULTI-MODAL AGENTS
+        +
+QUEUE SYNCHRONIZATION
+        +
+MEMORY MANAGEMENT
+        +
+RESOURCE CONSTRAINTS
+        +
+AUTOMATED EXECUTION
+
+<a href="https://github.com/Fatim1509/Rime1.0">
+<img src="https://img.shields.io/badge/ACCESS_RIME_v1.0-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050509">
+</a>---
+
+"06 // CYBERPUNK VISUAL FEED"
+
+<div align="center"><img src="https://media.giphy.com/media/qgQUggACo1fv687qPC/giphy.gif" width="48%"><img src="https://media.giphy.com/media/Yy26889w2sO1U7yLg7/giphy.gif" width="48%"></div><br><div align="center"><img src="https://raw.githubusercontent.com/andryandev/andryandev/main/assets/line-neon.gif" width="100%"></div>---
+
+"07 // CURRENT MISSION"
+
+[████████████████████████████████████████] 100%
+
+[✓] MASTER C / SYSTEMS FUNDAMENTALS
+[✓] BUILD SECURITY PROJECTS
+[✓] EXPLORE AI SYSTEMS
+[✓] BUILD MULTI-AGENT ARCHITECTURES
+[✓] OPTIMIZE RESOURCE CONSUMPTION
+[>] BUILD SOMETHING THAT SHOULDN'T RUN ON 1GB RAM
+
+---
+
+"08 // GITHUB TELEMETRY"
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ArJatala&show_icons=true&hide_border=true&bg_color=030305&title_color=00F0FF&icon_color=C084FC&text_color=E2E8F0&ring_color=00F0FF" width="48%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArJatala&hide_border=true&background=030305&ring=00F0FF&fire=C084FC&currStreakLabel=00F0FF&sideLabels=E2E8F0&dates=64748B" width="48%"></div>---
+
+"09 // CONTRIBUTION MATRIX"
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ArJatala&bg_color=030305&color=00F0FF&line=C084FC&point=FFFFFF&area=true&hide_border=true" width="100%"></div>---
+
+"10 // CONNECT"
+
+<div align="center"><a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/PING_NODE-GMAIL-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050509">
+</a><a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/SECURE_LINK-LINKEDIN-C084FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050509">
+</a><a href="https://github.com/ArJatala">
+<img src="https://img.shields.io/badge/ROOT-GITHUB-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050509">
+</a></div>---
+
+<div align="center">"// SYSTEM MESSAGE"
+
+THE GRID IS FULL OF PEOPLE WHO BUILD
+WHEN RESOURCES ARE UNLIMITED.
+
+THE REAL ENGINEER LEARNS
+WHAT TO REMOVE.
+
+> 1GB RAM.
+> ZERO EXCUSES.
+> MAXIMUM EXECUTION.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:08001A,100:030305&height=120&section=footer&animation=twinkling">"SYSTEM STATUS :: ONLINE ⚡"
 
 </div>
