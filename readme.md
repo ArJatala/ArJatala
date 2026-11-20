@@ -262,8 +262,8 @@ Where RIME0.2 was born. Every crash, every bug, every constraint encountered her
 
 ## 📫 Connect
 
-[![Email](https://img.shields.io/badge/Email-fatimshahbaz1509@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ffe7)](mailto:fatimshahbaz1509@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Fatim1509-0d0d0d?style=for-the-badge&logo=github&logoColor=00ffe7)](https://github.com/Fatim1509)
+[![Email](https://img.shields.io/badge/Email-abdurrehmanijazali@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ffe7)](mailto:fatimshahbaz1509@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ArJatala-0d0d0d?style=for-the-badge&logo=github&logoColor=00ffe7)](https://github.com/ArJatala)
 [![Location](https://img.shields.io/badge/📍_Lahore,_Pakistan-0d0d0d?style=for-the-badge&logoColor=00ffe7)](#)
 
 <br/>
