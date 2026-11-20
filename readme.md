@@ -2,18 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=27&duration=3000&pause=700&color=00F0FF&center=true&vCenter=true&width=850&height=70&lines=SYSTEM+INITIALIZED+%E2%9A%A1;ROOT_ACCESS+%3A%3A+ARJATALA;SECURITY+%2F%2F+AI+%2F%2F+SYSTEMS;BSCS_CORE+%3A%3A+FAST-NUCES;STATUS+%3A%3A+1GB_RAM_MINDSET+%F0%9F%94%A5" alt="Typing Header"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:030305,50:08001A,100:00F0FF&height=140&section=header&text=THE%20SILENT%20EXPLOIT&fontSize=34&fontColor=00F0FF&animation=twinkling&fontAlignY=45" width="100%"/></div>---
 
-<div align="center">"> BOOT_SEQUENCE"
-
-╔══════════════════════════════════════════════════════════╗
-║                 ARJATALA // CORE SYSTEM                 ║
-╠══════════════════════════════════════════════════════════╣
-║ USER       :: ARJATALA                                  ║
-║ ROLE       :: SECURITY / AI / SYSTEMS                   ║
-║ CORE       :: BSCS @ FAST-NUCES                          ║
-║ MODE       :: BUILD / BREAK / OPTIMIZE                  ║
-║ MEMORY     :: 1GB RAM MINDSET                            ║
-║ STATUS     :: █████████████████████ 100%                ║
-╚══════════════════════════════════════════════════════════╝
 
 <img src="https://komarev.com/ghpvc/?username=ArJatala&style=for-the-badge&color=00f0ff&label=SYSTEM+PINGS" alt="Profile Views"></div>---
 
